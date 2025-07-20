@@ -1,5 +1,4 @@
 # FUTURE_DS_02
-# FUTURE_DS_02
 # 📊 Social Media Campaign Performance Tracker
 
 This project analyzes Facebook/Instagram ad campaign data to evaluate performance, engagement, CTR (Click-Through Rate), and ROI. Built using Power BI, it helps marketers identify high-performing ads, understand audience behavior, and optimize future campaigns.
